@@ -1,5 +1,4 @@
-### Hi there! 👋
-
+# Hi there! 👋
 *Beginner programmer*
 - 🌱 **I’m currently learning:** HTML, CSS and JavaScript.
 <!-- - 🔭 I’m currently working on ...
